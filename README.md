@@ -2,6 +2,7 @@
 
 🎓 Estudante de Engenharia da Computação na [FACENS](https://facens.br)  
 💡 Apaixonado por tecnologia
+
 💻 Futuro desenvolvedor Full Stack 
 
 ---
@@ -37,4 +38,4 @@
 
 - 🌐 [GitHub](https://github.com/Gabrieldsrod)
 - 📧 gabrieldsrod@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-da-silva-rodrigues-256193306/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrieldsrod/)
