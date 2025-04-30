@@ -2,7 +2,6 @@
 
 🎓 Estudante de Engenharia da Computação na [FACENS](https://facens.br)  
 💡 Apaixonado por tecnologia
-
 💻 Futuro desenvolvedor Full Stack 
 
 ---
