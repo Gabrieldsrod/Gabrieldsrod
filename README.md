@@ -28,8 +28,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrieldsrod&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldsrod&layout=compact&theme=radical)
+![gabrieldsrod's Stats](https://github-readme-stats.vercel.app/api?username=gabrieldsrod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![gabrieldsrod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldsrod&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
