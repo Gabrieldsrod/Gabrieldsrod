@@ -37,4 +37,4 @@
 
 - 🌐 [GitHub](https://github.com/Gabrieldsrod)
 - 📧 gabrieldsrod@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gabriel-da-silva-rodrigues-256193306/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-da-silva-rodrigues-256193306/) 
