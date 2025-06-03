@@ -56,8 +56,7 @@ Funcionalidades:
 
 ## 📊 Estatísticas do GitHub
 
-![gabrieldsrod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldsrod&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieldsRod&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 Onde me encontrar
