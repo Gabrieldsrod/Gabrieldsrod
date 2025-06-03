@@ -26,7 +26,7 @@
 
 ## 🚀 Projetos em destaque
 
-### 🔹 [AcquaEnergy](https://github.com/Gabrieldsrod/AcquaEnergy)  
+### 🔹 [AcquaEnergy](https://github.com/Gabrieldsrod/acqua-energy)  
 Sistema inteligente para promover o uso consciente de água e energia durante o banho.  
 Tecnologias utilizadas:
 - ESP32 com sensores de presença
