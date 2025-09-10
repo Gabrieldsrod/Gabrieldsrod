@@ -9,10 +9,17 @@
 ## ⚙️ Tecnologias
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)](#)
+[![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-3B82F6.svg?logo=typescript&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](#)
+[![PostGIS](https://img.shields.io/badge/PostGIS-336791.svg?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 ---
 
@@ -26,6 +33,35 @@
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🔹 [Mapa de Acessibilidade](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
+📍 Aplicação para mapear pontos acessíveis em uma cidade, com integração a mapas.  
+
+**Tecnologias:**
+- **Frontend:** React Native  
+- **Backend:** Express + TypeScript  
+- **Banco de Dados:** PostgreSQL + PostGIS  
+- **ORM:** Drizzle ORM  
+- **Integração:** API REST com suporte a mapas (Google Maps)  
+
+**Destaques:**
+- Cadastro de locais acessíveis com título, descrição e categoria  
+- Armazenamento espacial de coordenadas geográficas  
+- Consulta de locais com base em latitude/longitude  
+- Exibição no mapa via aplicativo mobile (React Native)
+
+---
+
+### 🔹 [Controle de Mesas de Cacheta](https://github.com/Gabrieldsrod/controle-cacheta)  
+🃏 Aplicativo Android em Java para organizar mesas e partidas do jogo de cacheta.  
+**Funcionalidades:**
+- Cronometragem por mesa  
+- Cálculo automático do valor por jogador  
+- Relatórios individuais e gerais  
+- Interface adaptada para Android  
+- Armazenamento local (sem necessidade de internet)  
+
+---
 
 ### 🔹 [AcquaEnergy](https://github.com/Gabrieldsrod/acqua-energy)  
 💧 Sistema inteligente para promover o uso consciente de água e energia durante o banho.  
@@ -45,17 +81,6 @@
 - Envio de dados para site mobile  
 - Monitoramento em tempo real do nível da bateria  
 - Projeto modular e escalável  
-
----
-
-### 🔹 [Controle de Mesas de Cacheta](https://github.com/Gabrieldsrod/controle-cacheta)  
-🃏 Aplicativo Android em Java para organizar mesas e partidas do jogo de cacheta.  
-**Funcionalidades:**
-- Cronometragem por mesa  
-- Cálculo automático do valor por jogador  
-- Relatórios individuais e gerais  
-- Interface adaptada para Android  
-- Armazenamento local (sem necessidade de internet)  
 
 ---
 
