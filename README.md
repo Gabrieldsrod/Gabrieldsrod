@@ -61,7 +61,7 @@ Main features
 ---
 
 ### 🔹 [Cacheta Table Manager](https://github.com/Gabrieldsrod/controle-cacheta)  
-🃏 Android application in Java to organize tables and games of cacheta.  
+🃏 Android application in Java to organize tables and games of cacheta (a Brazilian card game).  
 **Features:**
 - Timing per table  
 - Automatic calculation of value per player  
@@ -86,7 +86,7 @@ Main features
 **Highlights:**
 - Solar battery charging  
 - ESP32 for control of LEDs, fan and capture  
-- Data transmission to mobile site  
+- Data transmission to mobile dashboard  
 - Real-time battery level monitoring  
 - Modular and scalable project  
 
