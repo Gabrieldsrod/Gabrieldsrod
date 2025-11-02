@@ -1,12 +1,14 @@
-# 👋 Olá, eu sou o Gabriel!
+# 👋 Hello, I'm Gabriel!
 
-🎓 Estudante de **Engenharia da Computação** na [FACENS](https://facens.br)  
-💡 Apaixonado por **tecnologia, sustentabilidade e inovação**  
-💻 Em formação para me tornar **Desenvolvedor Full Stack**, com projetos em **automação, IoT e soluções web/mobile**
+*[Português](README_pt.md) | English*
+
+🎓 **Computer Engineering** student at [FACENS](https://facens.br)  
+💡 Passionate about **technology, sustainability and innovation**  
+💻 Training to become a **Full Stack Developer**, with projects in **automation, IoT and web/mobile solutions**
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Technologies
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -23,7 +25,7 @@
 
 ---
 
-## 🛠️ IDEs e Ferramentas
+## 🛠️ IDEs and Tools
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&logoColor=white)](#)
@@ -32,71 +34,71 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 🔹 [MyWay - Mapa de Acessibilidade](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
-📍 Aplicação mobile + backend para mapear e compartilhar pontos acessíveis na cidade, com visualização em mapa e consulta espacial.
+### 🔹 [MyWay - Accessibility Map](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
+📍 Mobile application + backend to map and share accessible locations in the city, with map visualization and spatial queries.
 
-Descrição curta:
-- App React Native para criar, visualizar e filtrar locais acessíveis; backend em TypeScript/Express com suporte a operações espaciais via PostGIS.
+Short description:
+- React Native app to create, view and filter accessible locations; backend in TypeScript/Express with support for spatial operations via PostGIS.
 
-Tecnologias
+Technologies
 - Frontend: React Native (mobile)
 - Backend: Node.js + Express + TypeScript
-- Banco de dados: PostgreSQL + PostGIS
+- Database: PostgreSQL + PostGIS
 - ORM: Drizzle ORM
-- Integração mapas: API de mapas (ex.: Google Maps / react-native-maps)
-- Autenticação / storage de arquivos: (configurável, ex.: Supabase/Storage)
+- Maps integration: Maps API (e.g.: Google Maps / react-native-maps)
+- Authentication / file storage: (configurable, e.g.: Supabase/Storage)
 
-Principais funcionalidades
-- Cadastro de locais acessíveis com título, descrição, categoria e foto
-- Armazenamento e consulta espacial de coordenadas (lat/lng) via PostGIS
-- Listagem e busca de pontos por proximidade (latitude/longitude)
-- Exibição e interação com pins no mapa pelo app mobile
-- Modal de detalhes do pin (visualização, exclusão condicional pelo proprietário)
-- Upload e gerenciamento de imagens (opção de integração com storage)
+Main features
+- Registration of accessible locations with title, description, category and photo
+- Storage and spatial query of coordinates (lat/lng) via PostGIS
+- Listing and searching points by proximity (latitude/longitude)
+- Display and interaction with pins on the map through the mobile app
+- Pin details modal (view, conditional deletion by owner)
+- Image upload and management (storage integration option)
 
 ---
 
-### 🔹 [Controle de Mesas de Cacheta](https://github.com/Gabrieldsrod/controle-cacheta)  
-🃏 Aplicativo Android em Java para organizar mesas e partidas do jogo de cacheta.  
-**Funcionalidades:**
-- Cronometragem por mesa  
-- Cálculo automático do valor por jogador  
-- Relatórios individuais e gerais  
-- Interface adaptada para Android  
-- Armazenamento local (sem necessidade de internet)  
+### 🔹 [Cacheta Table Manager](https://github.com/Gabrieldsrod/controle-cacheta)  
+🃏 Android application in Java to organize tables and games of cacheta.  
+**Features:**
+- Timing per table  
+- Automatic calculation of value per player  
+- Individual and general reports  
+- Interface adapted for Android  
+- Local storage (no internet required)  
 
 ---
 
 ### 🔹 [AcquaEnergy](https://github.com/Gabrieldsrod/acqua-energy)  
-💧 Sistema inteligente para promover o uso consciente de água e energia durante o banho.  
-**Tecnologias:**
-- ESP32 com sensores de presença  
-- Interface web para monitoramento em tempo real  
-- Gráficos dinâmicos  
-- Comunicação sem fio com estação base  
+💧 Smart system to promote conscious use of water and energy during showers.  
+**Technologies:**
+- ESP32 with presence sensors  
+- Web interface for real-time monitoring  
+- Dynamic charts  
+- Wireless communication with base station  
 
 ---
 
 ### 🔹 [EcoLume](https://github.com/Gabrieldsrod/EcoLume)  
-🌱 Armadilha automatizada para captura de mosquitos energizada por energia solar.  
-**Destaques:**
-- Carregamento solar da bateria  
-- ESP32 para controle de LEDs, ventoinha e captura  
-- Envio de dados para site mobile  
-- Monitoramento em tempo real do nível da bateria  
-- Projeto modular e escalável  
+🌱 Automated mosquito trap powered by solar energy.  
+**Highlights:**
+- Solar battery charging  
+- ESP32 for control of LEDs, fan and capture  
+- Data transmission to mobile site  
+- Real-time battery level monitoring  
+- Modular and scalable project  
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieldsRod&layout=compact&theme=github_dark)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 🌐 [GitHub](https://github.com/Gabrieldsrod)  
 - 📧 **gabrieldsrod@gmail.com**  
