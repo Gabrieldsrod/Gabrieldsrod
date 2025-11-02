@@ -34,7 +34,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 Mapa de Acessibilidade
+### 🔹 [Mapa de Acessibilidade](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
 📍 Aplicação mobile + backend para mapear e compartilhar pontos acessíveis na cidade, com visualização em mapa e consulta espacial.
 
 Descrição curta:
