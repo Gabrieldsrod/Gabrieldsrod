@@ -34,21 +34,27 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 [Mapa de Acessibilidade](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
-📍 Aplicação para mapear pontos acessíveis em uma cidade, com integração a mapas.  
+### 🔹 Mapa de Acessibilidade
+📍 Aplicação mobile + backend para mapear e compartilhar pontos acessíveis na cidade, com visualização em mapa e consulta espacial.
 
-**Tecnologias:**
-- **Frontend:** React Native  
-- **Backend:** Express + TypeScript  
-- **Banco de Dados:** PostgreSQL + PostGIS  
-- **ORM:** Drizzle ORM  
-- **Integração:** API REST com suporte a mapas (Google Maps)  
+Descrição curta:
+- App React Native para criar, visualizar e filtrar locais acessíveis; backend em TypeScript/Express com suporte a operações espaciais via PostGIS.
 
-**Destaques:**
-- Cadastro de locais acessíveis com título, descrição e categoria  
-- Armazenamento espacial de coordenadas geográficas  
-- Consulta de locais com base em latitude/longitude  
-- Exibição no mapa via aplicativo mobile (React Native)
+Tecnologias
+- Frontend: React Native (mobile)
+- Backend: Node.js + Express + TypeScript
+- Banco de dados: PostgreSQL + PostGIS
+- ORM: Drizzle ORM
+- Integração mapas: API de mapas (ex.: Google Maps / react-native-maps)
+- Autenticação / storage de arquivos: (configurável, ex.: Supabase/Storage)
+
+Principais funcionalidades
+- Cadastro de locais acessíveis com título, descrição, categoria e foto
+- Armazenamento e consulta espacial de coordenadas (lat/lng) via PostGIS
+- Listagem e busca de pontos por proximidade (latitude/longitude)
+- Exibição e interação com pins no mapa pelo app mobile
+- Modal de detalhes do pin (visualização, exclusão condicional pelo proprietário)
+- Upload e gerenciamento de imagens (opção de integração com storage)
 
 ---
 
