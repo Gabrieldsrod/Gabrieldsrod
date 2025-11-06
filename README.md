@@ -100,6 +100,5 @@ Main features
 
 ## 📫 Contact
 
-- 🌐 [GitHub](https://github.com/Gabrieldsrod)  
 - 📧 **gabrieldsrod@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrieldsrod/)
