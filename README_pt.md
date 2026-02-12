@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Engenharia da Computação** na [FACENS](https://facens.br)  
 💡 Apaixonado por **tecnologia, sustentabilidade e inovação**  
-💻 Em formação para me tornar **Desenvolvedor Full Stack**, com projetos em **automação, IoT e soluções web/mobile**
+💻 Em formação para me tornar **Desenvolvedor Back-end**, com projetos em **automação, IoT e soluções web/mobile**
 
 ---
 
