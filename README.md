@@ -4,7 +4,7 @@
 
 🎓 **Computer Engineering** student at [FACENS](https://facens.br)  
 💡 Passionate about **technology, sustainability and innovation**  
-💻 Training to become a **Full Stack Developer**, with projects in **automation, IoT and web/mobile solutions**
+💻 Training to become a **Back-end Developer**, with projects in **automation, IoT and web/mobile solutions**
 
 ---
 
