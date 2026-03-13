@@ -30,8 +30,8 @@
 ## 🛠️ IDEs e Ferramentas
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)](#)
 
 ---
@@ -55,6 +55,8 @@ Principais funcionalidades:
 - Gestão de matrículas, planos de treinamento e controle de pagamentos.
 - Arquitetura baseada em API RESTful para alta performance.
 - Automação de processos internos para reduzir o trabalho manual na recepção e administração do CT.
+
+---
 
 ### 🔹 [MyWay - Mapa de Acessibilidade](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
 📍 Aplicação mobile + backend para mapear e compartilhar pontos acessíveis na cidade, com visualização em mapa e consulta espacial.
