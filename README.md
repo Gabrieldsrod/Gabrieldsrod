@@ -11,17 +11,19 @@
 ## ⚙️ Technologies
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)](#)
-[![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-3B82F6.svg?logo=typescript&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](#)
 [![PostGIS](https://img.shields.io/badge/PostGIS-336791.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0.svg?logo=docker&logoColor=white)](#)
 
 ---
 
@@ -35,6 +37,24 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 [Training Center Management System](https://github.com/Gabrieldsrod/gestao-ct) 
+🏋️ Full-stack ERP platform developed to optimize and automate the administration of a Training Center. The system centralizes student management, plan tracking, and financial management in a unified interface.
+
+Short description:
+- Web application designed to facilitate the daily operations of a Training Center, combining a dynamic React frontend with a robust and scalable Spring Boot API.
+
+Technologies
+- Frontend: React
+- Backend: Java + Spring Boot
+- Database: PostgreSQL
+- Infrastructure: Docker (environment containerization)
+
+Key features:
+- Administrative dashboard for student registration and management.
+- Enrollment management, training plans, and payment tracking.
+- RESTful API based architecture for high performance.
+- Internal process automation to reduce manual work at the front desk and in the Training Center's administration.
 
 ### 🔹 [MyWay - Accessibility Map](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
 📍 Mobile application + backend to map and share accessible locations in the city, with map visualization and spatial queries.

@@ -11,17 +11,19 @@
 ## ⚙️ Tecnologias
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)](#)
-[![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-3B82F6.svg?logo=typescript&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](#)
 [![PostGIS](https://img.shields.io/badge/PostGIS-336791.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0.svg?logo=docker&logoColor=white)](#)
 
 ---
 
@@ -35,6 +37,24 @@
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🔹 [Sistema de Gestão para CT](https://github.com/Gabrieldsrod/gestao-ct) 
+🏋️ Plataforma ERP full-stack desenvolvida para otimizar e automatizar a administração de um Centro de Treinamento. O sistema centraliza o controle de alunos, acompanhamento de planos e gestão financeira em uma interface unificada.
+
+Descrição curta:
+- Aplicação web projetada para facilitar as operações diárias de um CT, combinando um frontend dinâmico em React com uma API robusta e escalável em Spring Boot.
+
+Tecnologias
+- Frontend: React
+- Backend: Java + Spring Boot
+- Banco de dados: PostgreSQL
+- Infraestrutura: Docker (conteinerização do ambiente)
+
+Principais funcionalidades:
+- Painel administrativo para cadastro e controle de alunos.
+- Gestão de matrículas, planos de treinamento e controle de pagamentos.
+- Arquitetura baseada em API RESTful para alta performance.
+- Automação de processos internos para reduzir o trabalho manual na recepção e administração do CT.
 
 ### 🔹 [MyWay - Mapa de Acessibilidade](https://github.com/luizamantovani/UPX4_MapaDeAcessibilidade)  
 📍 Aplicação mobile + backend para mapear e compartilhar pontos acessíveis na cidade, com visualização em mapa e consulta espacial.
