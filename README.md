@@ -122,5 +122,5 @@ Main features
 
 ## 📫 Contact
 
-- 📧 **gabrieldsrod@gmail.com**  
+- 📧 **gabrieldsrodrigues19@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrieldsrod/)
