@@ -38,6 +38,28 @@
 
 ## 🚀 Projetos em Destaque
 
+### 🔹 [Agendo — Gerenciador Inteligente de Cronograma de Estudos](https://github.com/luizamantovani/Projeto-Desenvolvimento-Web)
+🧠 Plataforma web full-stack desenvolvida para criar e gerenciar cronogramas de estudo inteligentes e personalizados, utilizando um algoritmo de pesos dinâmicos para otimizar o aprendizado e a consistência.
+
+Descrição curta:
+-  Aplicação web projetada para resolver problemas de organização nos estudos através da distribuição automática de matérias por peso, dificuldade e disponibilidade de horário, combinando um frontend reativo em React + Vite a uma API RESTful escalável em Spring Boot.
+
+Tecnologias:
+- Frontend: React + TypeScript + Vite + Tailwind CSS
+- Backend: Java 21 + Spring Boot + Spring Security (JWT)
+- Banco de Dados: PostgreSQL + Flyway (Database Migrations)
+- Documentação de API: Swagger / OpenAPI 3 
+- Infraestrutura: Docker & Docker Compose 
+
+Principais recursos:
+- Algoritmo de Pesos Dinâmicos: Geração automática de cronograma considerando o nível de dificuldade (1-10) e prioridade de cada matéria.
+- Dashboard de Progresso: Painel interativo com estatísticas de desempenho e acompanhamento de metas em tempo real.
+- Configuração Customizável de Planos: Definição de dias disponíveis na semana, turnos de estudo, datas limites e paleta de cores por matéria.
+- Visualização Flexível do Cronograma: Visões diária, semanal e mensal com controle rápido de conclusão de sessões.
+- Segurança e Suporte: Autenticação via JWT, fluxo de recuperação de senha por e-mail e documentação interativa com Swagger.
+
+---
+
 ### 🔹 [Sistema de Gestão para CT](https://github.com/Gabrieldsrod/gestao-ct) 
 🏋️ Plataforma ERP full-stack desenvolvida para otimizar e automatizar a administração de um Centro de Treinamento. O sistema centraliza o controle de alunos, acompanhamento de planos e gestão financeira em uma interface unificada.
 
