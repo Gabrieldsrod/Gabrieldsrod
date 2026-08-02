@@ -38,6 +38,28 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 [Agendo - Smart Study Schedule Manager](https://github.com/luizamantovani/Projeto-Desenvolvimento-Web) 
+🧠 Full-stack web platform built to generate and manage personalized, intelligent study schedules using a dynamic weighting algorithm to optimize learning and study consistency. 
+
+Short description:
+-  Web application designed to solve study organization problems by automatically distributing subjects based on difficulty, priority, and available time slots, combining a modern React + Vite frontend with a robust Spring Boot REST API.   
+
+Technologies
+- Frontend: React + TypeScript + Vite + Tailwind CSS
+- Backend: Java 21 + Spring Boot + Spring Security (JWT)
+- Database: PostgreSQL + Flyway (Database Migrations)
+- API Documentation: Swagger / OpenAPI 3 
+- Infrastructure: Docker & Docker Compose 
+
+Key features:
+- Dynamic Weighting Algorithm: Automated study schedule generation based on subject difficulty (1-10) and importance/priority. 
+- Progress Tracking Dashboard: Real-time visual monitoring of study session completion, stats, and overall progress.
+- Customizable Study Plans: Flexible configuration of available days, time slots/shifts, subject color-coding, and deadline dates.  
+- Interactive Calendar Views: Daily, weekly, and monthly schedule visualization with quick status toggle (PENDING / COMPLETED).
+- Security & Support: JWT authentication, password recovery via email, and interactive Swagger API documentation.    
+
+---
+
 ### 🔹 [Training Center Management System](https://github.com/Gabrieldsrod/gestao-ct) 
 🏋️ Full-stack ERP platform developed to optimize and automate the administration of a Training Center. The system centralizes student management, plan tracking, and financial management in a unified interface.
 
